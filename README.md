@@ -13,17 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👀 Active Repos
-[![Attendance Management System](https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=dark)](https://github.com/imsatyasaiteja/Attendance-Management-System)
-
-[![CPU Scheduling](https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=dark)](https://github.com/imsatyasaiteja/Cpu-Scheduling)
-
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=imsatyasaiteja&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsatyasaiteja&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
+<p align="left">
+  <a href="https://github.com/imsatyasaiteja">
+    <img height="190em" src="https://github-readme-stats.zohan.tech/api?username=imsatyasaiteja&show_icons=true&theme=skyline&include_all_commits=true" />
+    <img height="190em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=imsatyasaiteja&theme=skyline&layout=compact" />
+  </a>
+</p>
 
 ### 👀 Activity Graph
 [![M Satya Sai Teja's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
+
+### 👀 Active Repos
+<p align="left">
+  <a href="https://github.com/imsatyasaiteja/Attendance-Management-System">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=skyline" />
+  </a>
+  <a href="https://github.com/imsatyasaiteja/Cpu-Scheduling">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=skyline" />
+  </a>
+</p>
 
 ### ☕ Get In Touch
 - [Linked In](https://www.linkedin.com/in/imsatyasaiteja)
