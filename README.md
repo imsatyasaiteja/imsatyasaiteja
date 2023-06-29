@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsatyasaiteja&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
 
 ### 👀 Activity Graph
-[![M Satya Sai Teja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
+[![M Satya Sai Teja's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
 
 ### ☕ Get In Touch
 - [Linked In](https://www.linkedin.com/in/imsatyasaiteja)
