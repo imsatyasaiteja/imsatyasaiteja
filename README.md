@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👀 Active Repos
+<p align="left">
+  <a href="https://github.com/imsatyasaiteja/Attendance-Management-System">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=skyline" />
+  </a>
+  <a href="https://github.com/imsatyasaiteja/Cpu-Scheduling">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=skyline" />
+  </a>
+</p>
+
 ### 🏆 Github Status
 <p align="left">
   <a href="https://github.com/imsatyasaiteja">
@@ -23,16 +33,6 @@ Here are some ideas to get you started:
 
 ### 👀 Activity Graph
 [![M Satya Sai Teja's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
-
-### 👀 Active Repos
-<p align="left">
-  <a href="https://github.com/imsatyasaiteja/Attendance-Management-System">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=skyline" />
-  </a>
-  <a href="https://github.com/imsatyasaiteja/Cpu-Scheduling">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=skyline" />
-  </a>
-</p>
 
 ### ☕ Get In Touch
 - [Linked In](https://www.linkedin.com/in/imsatyasaiteja)
