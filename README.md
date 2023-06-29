@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### 🏆 Github Status
 <p align="left">
   <a href="https://github.com/imsatyasaiteja">
-    <img height="190em" src="https://github-readme-stats.zohan.tech/api?username=imsatyasaiteja&show_icons=true&theme=skyline&include_all_commits=true" />
-    <img height="190em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=imsatyasaiteja&theme=skyline&layout=compact" />
+    <img height="160em" src="https://github-readme-stats.zohan.tech/api?username=imsatyasaiteja&show_icons=true&theme=skyline&include_all_commits=true" />
+    <img height="160em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=imsatyasaiteja&theme=skyline&layout=compact" />
   </a>
 </p>
 
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ### 👀 Active Repos
 <p align="left">
   <a href="https://github.com/imsatyasaiteja/Attendance-Management-System">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=skyline" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=skyline" />
   </a>
   <a href="https://github.com/imsatyasaiteja/Cpu-Scheduling">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=skyline" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=skyline" />
   </a>
 </p>
 
