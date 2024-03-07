@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repos
 <p align="left">
-  <a href="https://github.com/imsatyasaiteja/Attendance-Management-System">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=prussian" />
+  <a href="https://github.com/imsatyasaiteja/Visual-Crypto-Coding">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Visual-Crypto-Coding&theme=prussian" />
   </a>
-  <a href="https://github.com/imsatyasaiteja/Cpu-Scheduling">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Cpu-Scheduling&theme=prussian" />
+  <a href="https://github.com/imsatyasaiteja/portfolio">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=portfolio&theme=prussian" />
   </a>
 </p>
 
