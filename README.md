@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repos
 <p align="left">
-    <a href="https://github.com/imsatyasaiteja/Brain-Tumor-Radiogenomic-Classification">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Brain-Tumor-Radiogenomic-Classification&theme=prussian" />
+    <a href="https://github.com/imsatyasaiteja/DVWA_Exploitation">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=DVWA_Exploitation&theme=prussian" />
     </a>
     <a href="https://github.com/imsatyasaiteja/Network_Science">
         <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Network_Science&theme=prussian" />
