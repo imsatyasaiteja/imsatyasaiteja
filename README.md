@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 👀 Activity Graph
-[![M Satya Sai Teja's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
+[![Teja's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
 
 ### ☕ Get In Touch
 - [Linked In](https://www.linkedin.com/in/imsatyasaiteja)
