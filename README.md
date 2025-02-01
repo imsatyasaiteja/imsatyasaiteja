@@ -22,24 +22,24 @@
 </p>
 
 ### 😁 About Me
-
+<br>
 <p>Penetration Tester - Security Researcher - Podcaster (ColdCofy Guy)
 
 Hey friend! 🤝
 
-Welcome to my GitHub Profile! 😄 I'm Teja, a Computer Science Engineering graduate from Jawaharlal Nehru University, New Delhi, India.
+Welcome to my GitHub Profile! 😄 I'm Teja, a Computer Science graduate from Jawaharlal Nehru University, New Delhi, India.
 
 🔍 My expertise lies in Penetration Testing, SIEM Management, Web Development, Deep Learning, Generative AI (Transformer Neural Networks), and Software Development & Testing.
 
-🛡️ I’m all about Network Security, Web Security, Cryptography, and AI Security—because what’s more thrilling than securing the digital world?
+🛡️ I’m all about Network Security, Web Security, Cryptography, and AI Security - what’s more thrilling than securing the digital world?
 
-💡 Let’s Collaborate!
-Check out my repos, and if you find something interesting or have an idea that aligns with my work, let’s build something awesome together! Feel free to drop me an email.
+💡 Let’s Collaborate! Check out my repos, and if you find something interesting or have an idea that aligns with my work, let’s work on something awesome together! Feel free to drop me an email.
 
 🎭 Currently: A Red Teamer → Wannabe Blue Teamer 😅
 
-Let’s connect and hack the future (ethically, of course 😉)! 🔥
+🔥 Let’s connect and hack the future (ethically, of course! 😉)
 </p>
+<br>
 
 ### 🏆 Skill Set
 <table>
