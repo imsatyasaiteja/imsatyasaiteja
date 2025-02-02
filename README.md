@@ -29,9 +29,9 @@ Hey friend! 🤝
 
 Welcome to my GitHub Profile! 😄 I'm Teja, a Computer Science graduate from Jawaharlal Nehru University, New Delhi, India.
 
-🔍 My expertise lies in Penetration Testing, SIEM Management, Web Development, Deep Learning, Generative AI (Transformer Neural Networks), and Software Development & Testing.
+🔍 I have experience in Penetration Testing, SIEM Management, Web Development, Deep Learning, Generative AI (Transformer Neural Networks), and Software Development & Testing.
 
-🛡️ I’m all about Network Security, Web Security, Cryptography, and AI Security - what’s more thrilling than securing the digital world?
+🛡️ My favourite InfoSec areas are Network Security, Web Security, Cryptography, and AI Security - what’s more exciting than securing the digital world?
 
 💡 Let’s Collaborate! Check out my repos, and if you find something interesting or have an idea that aligns with my work, let’s work on something awesome together! Feel free to drop me an email.
 
@@ -44,20 +44,33 @@ Welcome to my GitHub Profile! 😄 I'm Teja, a Computer Science graduate from Ja
 ### 🏆 Skill Set
 <table>
   <tr>
+      <td><img src="https://github.com/user-attachments/assets/e6065191-84de-4c8c-91de-34dfef4a0909" width="50"></td>
       <td><img src="https://img.icons8.com/color/480/null/tensorflow.png" width="50"></td>
       <td><img src="https://img.icons8.com/color/240/null/python--v1.png" width="50"></td>
+      <td><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50"></td>
+      <td><img src="https://img.icons8.com/color/480/null/pycharm.png" width="50"></td>
+  </tr>
+  <tr>
+      <td><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/peass-ng/images/peass-ng-logo.svg" width="50"></td>
+      <td><img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" width="50"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50"></td>
+      <td><img src="https://github.com/user-attachments/assets/4e53ab3e-e480-46b0-ae06-30989fe93de0" width="50"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="50"></td>
       <td><img src="https://img.icons8.com/color/240/null/numpy.png" width="50"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50"></td>
       <td><img src="https://img.icons8.com/color/480/null/pandas.png" width="50"></td>
       <td><img src="https://img.icons8.com/color/480/null/opencv.png" width="50"></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"></td>
-    <td><img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/profiler.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="50"></td>
-    <td><img src="https://img.icons8.com/color/480/null/pycharm.png" width="50"></td>
+<!--       <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"></td> -->
+<!--       <td><img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/profiler.png" width="50"></td> -->
+<!--       <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="50"></td> -->
   </tr>
 
 </table>
