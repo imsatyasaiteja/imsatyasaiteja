@@ -22,7 +22,7 @@
 </p>
 
 ### 👨🏻‍💻 TryHackeMe Profile
-![TryHackMe Badge](https://tryhackme.com/path-to-latest-badge-image.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ColdCofyGuy.png)
 
 ### 😁 About Me
 <br>
