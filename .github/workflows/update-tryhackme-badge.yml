@@ -2,8 +2,8 @@ name: Update TryHackMe Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every 24 hours
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 0 * * *' # Runs every 24 hours at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme:
@@ -12,13 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install jq
-        run: sudo apt-get install jq
-
-      - name: Fetch TryHackMe Badge
+      - name: Update README with Latest TryHackMe Badge
         run: |
-          curl -s "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3859159" | jq -r '.badge.image' > badge_url.txt
-          echo "![TryHackMe Badge]($(cat badge_url.txt))" > README.md
+          echo "![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ColdCofyGuy.png)" > README.md
 
       - name: Commit and Push Changes
         run: |
