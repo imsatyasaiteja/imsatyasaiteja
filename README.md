@@ -21,6 +21,9 @@
     </a>
 </p>
 
+### 👨🏻‍💻 TryHackeMe Profile
+![TryHackMe Badge](https://tryhackme.com/path-to-latest-badge-image.png)
+
 ### 😁 About Me
 <br>
 <p>Penetration Tester - Security Researcher - Podcaster (ColdCofy Guy)
