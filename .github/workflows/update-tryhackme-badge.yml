@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install jq
+        run: sudo apt-get install jq
+
       - name: Fetch TryHackMe Badge
         run: |
           curl -s "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3859159" | jq -r '.badge.image' > badge_url.txt
@@ -24,6 +27,3 @@ jobs:
           git add README.md
           git commit -m "Updated TryHackMe badge"
           git push
-
-      - name: Install jq
-        run: sudo apt-get install jq
