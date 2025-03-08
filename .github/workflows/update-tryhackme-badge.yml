@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Prevents using default bot authentication
 
       - name: Update README with Latest TryHackMe Badge
         run: |
@@ -18,10 +20,10 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          THM_PAT: ${{ secrets.THM_PAT }}
+          THM_PAT: ${{ secrets.THM_PAT }} # Use the stored PAT
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Updated TryHackMe badge" || exit 0
-          git push https://$THM_PAT@github.com/imsatyasaiteja/imsatyasaiteja.git main
+          git push https://x-access-token:$THM_PAT@github.com/imsatyasaiteja/imsatyasaiteja.git main
