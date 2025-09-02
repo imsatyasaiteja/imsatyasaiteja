@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hey! I'm Teja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"></h1>
+<h1 align="center"> Hey! I'm Satya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"></h1>
 
 ### 👀 Active Repos
 <p align="left">
@@ -30,7 +30,7 @@
 
 Hey friend! 🤝
 
-Welcome to my GitHub Profile! 😄 I'm Teja, a Computer Science graduate from Jawaharlal Nehru University, New Delhi, India.
+Welcome to my GitHub Profile! 😄 I'm Satya, a Computer Science graduate from Jawaharlal Nehru University, New Delhi, India.
 
 🔍 I have experience in Penetration Testing, SIEM Management, Web Development, Deep Learning, Generative AI (Transformer Neural Networks), and Software Development & Testing.
 
