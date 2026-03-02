@@ -1,50 +1,35 @@
-<!--
-- 🔭 I’m currently working on ... 
+<h1 align="center"><img src="https://github.com/user-attachments/assets/a61a9c77-333b-4d2e-b763-00c5ccf312b5" width="90" /></h1>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center"> Hey! I'm Satya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33"></h1>
-
-### 👀 Active Repos
+## ⌛Flashback
 <p align="left">
-    <a href="https://github.com/imsatyasaiteja/DVWA_Exploitation">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=DVWA_Exploitation&theme=prussian" />
+     <a href="https://github.com/imsatyasaiteja/Simple-Linux-Shell">
+        <img height="150em" src="https://github-readme-stats.zohan.tech/api/pin/?username=imsatyasaiteja&repo=Simple-Linux-Shell&theme=prussian" />
     </a>
-    <a href="https://github.com/imsatyasaiteja/Network_Science">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=imsatyasaiteja&repo=Network_Science&theme=prussian" />
+    <a href="https://github.com/imsatyasaiteja/Attendance-Management-System">
+        <img height="150em" src="https://github-readme-stats.zohan.tech/api/pin/?username=imsatyasaiteja&repo=Attendance-Management-System&theme=prussian" />
     </a>
 </p>
 
-### 👨🏻‍💻 TryHackeMe Profile
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ColdCofyGuy.png)
-
-### 😁 About Me
+## 😁 Satya || SST || ColdCofyGuy
+<h3> SOC Analyst - Penetration Tester - Security Researcher - Podcaster </h3>
 <br>
-<p>Penetration Tester - Security Researcher - Podcaster (ColdCofy Guy)
+<p> Hey! are you a pull request? coz I've been waiting to merge with you <br>
+Okay... ChatGPT gave that cheesy line to grab your attention 😅 <br>
+But honestly... I am looking 🧐 for a partner in CODE <br>
+Because I believe in long-term commits (not just commitments) </p>
 
-Hey friend! 🤝
+Well, I'm Satya, a Master of Computing student at the National University of Singapore. I did my Bachelors in Computer Science from Jawaharlal Nehru University, India. 
 
-Welcome to my GitHub Profile! 😄 I'm Satya, a Computer Science graduate from Jawaharlal Nehru University, New Delhi, India.
+## ☕ Things I Do (Besides Drinking Cold Coffee)
 
-🔍 I have experience in Penetration Testing, SIEM Management, Web Development, Deep Learning, Generative AI (Transformer Neural Networks), and Software Development & Testing.
-
-🛡️ My favourite InfoSec areas are Network Security, Web Security, Cryptography, and AI Security - what’s more exciting than securing the digital world?
-
-💡 Let’s Collaborate! Check out my repos, and if you find something interesting or have an idea that aligns with my work, let’s work on something awesome together! Feel free to drop me an email.
-
-🎭 Currently: A Red Teamer → Wannabe Blue Teamer 😅
-
-🔥 Let’s connect and hack the future (ethically, of course! 😉)
+- Penetration Testing - I break into systems (legally)
+- SIEM Management - Because someone has to protect Gotham at 2AM, analyzing the logs
+- Web Development - Knock knock Codex, I need your help; If (Codex fails) {Write algo and debug myself;} else {review, refine prompts, and repeat}
+- Deep Learning - Not an ML wizard (yet), but I worked on a few projects and I clearly understand how models work under the hood (including Transformers)
+- Software Dev & Testing - I can build what's needed, but more than that, my core strength lies in testing and reverse engineering programs
 </p>
-<br>
 
-### 🏆 Skill Set
+## 🏆 Skill Set
 <table>
   <tr>
       <td><img src="https://github.com/user-attachments/assets/e6065191-84de-4c8c-91de-34dfef4a0909" width="50"></td>
@@ -79,7 +64,10 @@ Welcome to my GitHub Profile! 😄 I'm Satya, a Computer Science graduate from J
 </table>
 <br/>
 
-### 🏆 Github Status
+## 👨🏻‍💻 TryHackMe 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ColdCofyGuy.png)
+
+## 🏆 Github Status
 <p align="left">
     <a href="https://github.com/imsatyasaiteja">
         <img height="170em" src="https://github-readme-stats.zohan.tech/api?username=imsatyasaiteja&show_icons=true&theme=prussian&include_all_commits=true" />
@@ -87,28 +75,28 @@ Welcome to my GitHub Profile! 😄 I'm Satya, a Computer Science graduate from J
     </a>
 </p>
 
-### 👀 Activity Graph
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Activity Graph
 [![Teja's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imsatyasaiteja&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
 
-### <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
+## 🛜 Connect
 <p align="left">
 <table>
   <tr>
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/imsatyasaiteja">
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="50"></td>
+        <td><img src="https://github.com/user-attachments/assets/e9973e73-a7fe-44e4-aaa1-0458c6df73cd" width="60"></td>
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://imsatyasaiteja.github.io/portfolio">
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="50"></td>
+    <a style="margin-left: 10px;" target="_blank" href="https://x.com/imsatyasaiteja">
+        <td><img src="https://github.com/user-attachments/assets/bd2fbcd7-884c-4009-8306-344baeb0a2bd" width="50"></td>
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.t.me/imsatyasaiteja_sg">
+        <td><img src="https://github.com/user-attachments/assets/861ff02b-0bf3-4766-80e3-c3a5e92b0de8" width="40"></td>
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/imsatyasaiteja"">
-        <td><img src="https://github.com/user-attachments/assets/fdd0bd13-116a-4a6e-90d9-5a7c6bc298ff" width="50"></td>
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/imsatyasaiteja">
-        <td><img src="https://github.com/user-attachments/assets/dfcef2d8-bcd8-4fa6-a70b-f50d91025fc7" width="50"></td>
+        <td><img src="https://github.com/user-attachments/assets/a5f55f7f-d616-4a4e-bc69-a4fed4240e6b" width="70"></td>
     </a>
   </tr>
 </table>
  
 </p>
-<!-- - [Linked In]() -->
+
+
