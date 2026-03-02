@@ -82,18 +82,26 @@ Well, I'm Satya, a Master of Computing student at the National University of Sin
 <p align="left">
 <table>
   <tr>
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/imsatyasaiteja">
-        <td><img src="https://github.com/user-attachments/assets/e9973e73-a7fe-44e4-aaa1-0458c6df73cd" width="60"></td>
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://x.com/imsatyasaiteja">
-        <td><img src="https://github.com/user-attachments/assets/bd2fbcd7-884c-4009-8306-344baeb0a2bd" width="50"></td>
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.t.me/imsatyasaiteja_sg">
-        <td><img src="https://github.com/user-attachments/assets/861ff02b-0bf3-4766-80e3-c3a5e92b0de8" width="40"></td>
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/imsatyasaiteja"">
-        <td><img src="https://github.com/user-attachments/assets/a5f55f7f-d616-4a4e-bc69-a4fed4240e6b" width="70"></td>
-    </a>
+    <td>
+      <a href="https://www.linkedin.com/in/imsatyasaiteja" target="_blank">
+        <img src="https://github.com/user-attachments/assets/e9973e73-a7fe-44e4-aaa1-0458c6df73cd" width="60">
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/imsatyasaiteja" target="_blank">
+        <img src="https://github.com/user-attachments/assets/bd2fbcd7-884c-4009-8306-344baeb0a2bd" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.t.me/imsatyasaiteja_sg" target="_blank">
+        <img src="https://github.com/user-attachments/assets/861ff02b-0bf3-4766-80e3-c3a5e92b0de8" width="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/imsatyasaiteja" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a5f55f7f-d616-4a4e-bc69-a4fed4240e6b" width="70">
+      </a>
+    </td>
   </tr>
 </table>
  
