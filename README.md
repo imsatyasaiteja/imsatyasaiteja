@@ -18,7 +18,7 @@ Okay... ChatGPT gave that cheesy line to grab your attention 😅 <br>
 But honestly... I am looking 🧐 for a partner in CODE <br>
 Because I believe in long-term commits (not just commitments) </p>
 
-Well, I'm Satya, a Master of Computing student at the National University of Singapore. I did my Bachelors in Computer Science from Jawaharlal Nehru University, India. 
+I'm Satya, a Master of Computing student at the National University of Singapore. I did my Bachelors in Computer Science from Jawaharlal Nehru University, India. 
 
 ## ☕ Things I Do (Besides Drinking Cold Coffee)
 
