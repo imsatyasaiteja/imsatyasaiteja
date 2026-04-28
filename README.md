@@ -23,10 +23,10 @@ I'm Satya, a Master of Computing student at the National University of Singapore
 ## ☕ Things I Do (Besides Drinking Cold Coffee)
 
 - Penetration Testing - I break into systems (legally)
-- SIEM Management - Because someone has to protect Gotham at 2AM, analyzing the logs
-- Web Development - Knock knock Codex, I need your help; If (Codex fails) {Write algo and debug myself;} else {review, refine prompts, and repeat}
-- Deep Learning - Not an ML wizard (yet), but I worked on a few projects and I clearly understand how models work under the hood (including Transformers)
-- Software Dev & Testing - I can build what's needed, but more than that, my core strength lies in testing and reverse engineering programs
+- SIEM Management - Because someone has to protect Gotham at 2AM, analyzing logs
+- Web Development & Testing - I can build what's needed, but more than that, my core strength lies in inspecting, testing and reverse engineering code
+- Deep Learning - Not an ML wizard (yet), but I worked on a few projects and clearly understand how models work under the hood (including Transformers)
+- Software Dev - Write algo in simple terms, program and run; any issues => debug myself; If (persistent issues) {knock knock Codex, need your help;} else {review, refine, repeat}
 </p>
 
 ## 🏆 Skill Set
